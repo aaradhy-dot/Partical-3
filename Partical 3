@@ -1,0 +1,23 @@
+<html>
+    <title>Partical 3</title>
+<body bgcolor="pink">
+    <h1>Aaradhy Nimbalkar</h1>
+    <h2>CS25002</h2>
+      <ol>
+         <li>Call Now</li>
+         <li>About Us</li>
+         <li>Contact Us</li>
+      </ol>
+      <ul>
+         <li>Call Now</li>
+         <li>About Us</li>
+         <li>Contact Us</li>
+      </ul>
+      <dl>
+         <dt><b>Welcome to Web Design Class</b>
+            <dd>Smart</dd>
+            <dd>Hardworking</dd>
+            <dd>Digital Marketing</dd>
+         </dt>
+      <img src="C:\Users\Admin\Desktop\Web Design.jpg">
+      <a href="
