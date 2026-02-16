@@ -1,21 +1,11 @@
 <html>
 <head>
 <title> Practical No. 3 </title>
-
-<style>
-    img {
-        width: 300px;      /* image choti */
-        float: right;      /* image right side */
-        margin: 10px;
-    }
-</style>
-
 </head>
 
 <body bgcolor="lightgrey">
 
 <h1>My Favorite Digital Marketing Services</h1>
-
 <ul>
     <li>Search Engine Optimization (SEO)</li>
     <li>Social Media Marketing (SMM)</li>
@@ -39,12 +29,12 @@
     <dd>Paid advertising model where advertisers pay per click.</dd>
 </dl>
 
-<a href="https://nexeramarketer.com/" target="_blank">
+<a href="https://www.google.com/marketing" target="_blank">
     Visit Digital Marketing Website
 </a>
 <br><br>
 
-<img src="C:\Users\HP\Downloads\Webdesign.html\pic-3.webp">
+<img src=C:\Users\HP\Downloads\Webdesign.html\pic-3.webp">
 
 <marquee behavior="scroll" direction="left">
     📈 Grow Your Business with Digital Marketing 🚀
